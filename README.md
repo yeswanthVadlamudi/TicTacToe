@@ -13,6 +13,9 @@ Level 2: The computer is that annoying guy/gal! who doesnt let you win nor does 
 
 Level 3: The computer will thrash you
 
+<img width="465" height="342" alt="image" src="https://github.com/user-attachments/assets/79edabd5-21ef-49e0-9aa9-ba4cf6907b5e" />
+
+
 The game was made using numpy(employers watch out!) to make the board and handling the matrices used to make the board easy to work with.
 The game will display the board(which I am really proud about!) after each turn, updating the board based on the symbols added.
 Basically the program is an endless loop of TicTacToe games until you say quits or your laptop runs out of charge!.
