@@ -17,8 +17,11 @@ Level 3: The computer will thrash you
 
 
 The game was made using numpy(employers watch out!) to make the board and handling the matrices used to make the board easy to work with.
+
 The game will display the board(which I am really proud about!) after each turn, updating the board based on the symbols added. 
+
 The whole code is built with input validation and error handling, so there are no unexpected unhandled errors
+
 Basically the program is an endless loop of TicTacToe games until you say quits or your laptop runs out of charge!.
 
 For the script kiddies out there, make sure you have Python 3.6 or later and do install numpy using pip.
