@@ -8,7 +8,9 @@ So basically, the game is played with you and the computer, because you dont hav
 The computer can be set to 3 levels, actually 2 working ones as the 3rd level is still under development
 
 Level 1: The computer is an idiot who randomly places his piece anywhere even if he loses
+
 Level 2: The computer is that annoying guy/gal! who doesnt let you win nor does he/she win
+
 Level 3: The computer will thrash you
 
 The game was made using numpy(employers watch out!) to make the board and handling the matrices used to make the board easy to work with.
